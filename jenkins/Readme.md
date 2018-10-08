@@ -1,1 +1,1 @@
-
+run vagrant up
